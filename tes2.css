@@ -1,0 +1,54 @@
+body{
+    background-image: url(44.jpg);
+    background-size: cover;
+    margin: 0;
+}
+
+.navbar{
+    width : 100vw;
+    background-color: rgb(45, 55, 201);
+    padding : 3vh 5vh;
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+.laporan {
+    font-family: cursive;
+    width: 49vh;
+    height: 37vh;
+    background-color: rgb(45, 55, 201);
+    margin: auto;
+    margin-top: 13vh;
+    margin-bottom: 15vh;
+    padding: 7vh 0vh;
+    color: whitesmoke;
+    font-size: 2vh;
+    text-align:center;
+    border-radius: 8px;
+}
+
+.klik {
+    border: none;
+    background: cornflowerblue;
+    color: white;
+    padding: 30px 50px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    font-family: cursive;
+}
+
+.footer {
+    font-size: 12px;
+    padding: 14px 0;
+    color: white;
+    text-align: center;
+    background-color: #282627;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
